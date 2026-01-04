@@ -1,0 +1,15 @@
+﻿study_hours,attendance,previous_score,sleep_hours,internet_access,result
+1,60,35,5,No,Fail
+2,65,40,6,No,Fail
+3,70,45,6,Yes,Fail
+4,75,55,6,Yes,Pass
+5,80,60,7,Yes,Pass
+6,85,65,7,Yes,Pass
+7,90,70,8,Yes,Pass
+2,55,30,5,No,Fail
+3,68,50,6,Yes,Fail
+8,92,75,8,Yes,Pass
+4,72,58,6,Yes,Pass
+1,50,25,4,No,Fail
+6,88,68,7,Yes,Pass
+5,82,62,7,Yes,Pass
